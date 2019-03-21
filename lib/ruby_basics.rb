@@ -3,7 +3,7 @@ puts num1/num2
 end
 
 def assign_variable(value)
-  "Im assigning this ti a #{value} for this test"
+  "#{value}"
 end
 assign_variable("Nathan")
 
