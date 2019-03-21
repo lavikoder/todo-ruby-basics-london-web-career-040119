@@ -9,7 +9,7 @@ assign_variable("Nathan")
 
 def argue(same)
 end
-argue
+
 
 def greeting
 
