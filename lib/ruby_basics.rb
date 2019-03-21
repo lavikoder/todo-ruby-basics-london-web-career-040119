@@ -22,7 +22,7 @@ end
 def last_evaluated_value(phrase)
   "expert"
 end
-phrase
+last_evaluated_value(phrase)
 
 def pizza_party
 
