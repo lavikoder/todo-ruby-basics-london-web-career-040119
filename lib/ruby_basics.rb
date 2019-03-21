@@ -7,7 +7,8 @@ def assign_variable(value)
 end
 assign_variable("Nathan")
 
-def argue(same)
+def argue(phrase)
+  "I/'m right and you are wrong!"
 end
 
 
