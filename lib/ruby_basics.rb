@@ -5,6 +5,7 @@ end
 def assign_variable(value)
   "Im assigning this ti a #{value} for this test"
 end
+assign_variable("Nathan")
 
 def argue
   
