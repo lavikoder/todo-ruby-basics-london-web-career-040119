@@ -8,7 +8,7 @@ end
 assign_variable("Nathan")
 
 def argue(phrase)
-  "I/'m right and you are wrong!"
+  "I'm right and you are wrong!"
 end
 
 
